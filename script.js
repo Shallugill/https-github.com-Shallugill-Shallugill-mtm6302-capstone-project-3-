@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
           transition: font-size 0.3s ease-in-out; /* Add transition for font-size */
       }
       .evolution-arrow:hover {
-          font-size: 28px; /* Increase size on hover */
+          font-size: 30px; /* Increase size on hover */
       }
   `;
   document.head.appendChild(styleSheet);
